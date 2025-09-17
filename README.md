@@ -8,7 +8,10 @@ A complete neural network implementation built from scratch in Rust using only `
 
 
 watch the youtube video ! :
-[https://www.youtube.com/watch?v=6qCYULbW1yI
+
+
+https://youtu.be/oALzhNmhCMg
+
 <img width="640" height="420" alt="WITHOUT" src="https://github.com/user-attachments/assets/637a5136-5a3d-4a98-954b-86b7d50e1a07" />
 
 
@@ -265,6 +268,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ **Star this repository if it helped you understand neural networks better!**
 
 🔗 **Check out the accompanying YouTube video for a complete walkthrough of the implementation.**
+
 
 
 
