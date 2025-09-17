@@ -255,14 +255,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - The Rust community for excellent documentation
 - Michael Nielsen's Neural Networks textbook for mathematical foundations
 
-## 📞 Contact
-
-- **YouTube**: [Your Channel Name]
-- **Twitter**: [@yourusername]
-- **Email**: your.email@example.com
-
----
 
 ⭐ **Star this repository if it helped you understand neural networks better!**
 
 🔗 **Check out the accompanying YouTube video for a complete walkthrough of the implementation.**
+
