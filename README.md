@@ -67,8 +67,8 @@ cargo build --release
 mkdir data
 
 # Download MNIST CSV files (or use your preferred method)
-wget -O data/mnist_train.csv https://pjreddie.com/media/files/mnist_train.csv
-wget -O data/mnist_test.csv https://pjreddie.com/media/files/mnist_test.csv
+wget -O data/mnist_train.csv https://git.it.lut.fi/akaronen/faiml_templates/-/raw/1a0746a92f10ffa8146221de15bd38f7f8d584e8/11-Neural_Networks/mnist_data/mnist_train.csv
+wget -O data/mnist_test.csv https://git.it.lut.fi/akaronen/faiml_templates/-/raw/1a0746a92f10ffa8146221de15bd38f7f8d584e8/11-Neural_Networks/mnist_data/mnist_test.csv
 ```
 
 ### Run Training
@@ -268,6 +268,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ **Star this repository if it helped you understand neural networks better!**
 
 🔗 **Check out the accompanying YouTube video for a complete walkthrough of the implementation.**
+
 
 
 
