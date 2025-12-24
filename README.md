@@ -55,8 +55,8 @@ Input Layer (784)    Hidden Layer (64)    Output Layer (10)
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/neural-network-rust
-cd neural-network-rust
+git clone https://github.com/Amineharrabi/MNIST_In_Rust  
+cd MNIST_In_Rust
 cargo build --release
 ```
 
@@ -268,6 +268,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ **Star this repository if it helped you understand neural networks better!**
 
 🔗 **Check out the accompanying YouTube video for a complete walkthrough of the implementation.**
+
 
 
 
