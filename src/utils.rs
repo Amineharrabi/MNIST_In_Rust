@@ -7,10 +7,10 @@ pub fn one_hot_encode(label: usize, num_classes: usize) -> Array1<f32> {
 }
 
 pub fn accuracy(predictions: &[usize], labels: &[usize]) -> f32 {
-    let correct: usize = predictions
+    let correct = predictions
         .iter()
         .zip(labels.iter())
-        .filter(|&(pred, &label)| *pred == label)
+        .filter(|&(&pred, &label)| pred == label)
         .count();
     correct as f32 / labels.len() as f32
 }
